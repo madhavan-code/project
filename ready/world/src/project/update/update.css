@@ -1,0 +1,48 @@
+.login-display{
+    background-color: rgb(0, 174, 255);
+    height: 100vh;
+}
+.login-box{
+    background-color: white;
+    width: 30%;
+    height: 600px;
+    position: relative;
+    top: 11%;
+    left: 35%;
+    display: list-item;
+    list-style: none;
+    border-radius: 20px;
+}
+.style{
+    padding: 0px ;
+}
+.md{
+    width: 50%;
+    margin-bottom: 15px;
+}
+.md-style{
+    width: 75%;
+    margin-bottom: 20px;
+}
+.topic{
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.lg{
+    width: 90%;
+    margin-top: 10px;
+}
+.style{
+    padding: 0px 0px 0px 50px;
+}
+.fig{
+    background-color: rgb(103, 212, 212);
+    -webkit-text-fill-color: black;
+
+}
+.fig:hover{
+    background-color: aqua;
+   -webkit-text-fill-color: black;
+}

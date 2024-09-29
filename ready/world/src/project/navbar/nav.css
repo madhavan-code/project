@@ -1,0 +1,25 @@
+.nav-color{
+
+    background-color: gold;
+}
+.box{
+    
+  margin-top: 100px;
+  
+  border-radius: 10px;
+  -webkit-text-fill-color: aliceblue;
+   
+   
+}
+.tm{margin-left: 70px;}
+.tx{
+    margin-left: 10px;
+}
+.pic{
+    height: 800px;
+    background-image: url("./images/car.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+display: grid;
+justify-content: center;
+}

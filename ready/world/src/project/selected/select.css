@@ -1,0 +1,31 @@
+.selected{
+   
+   padding: 30px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.curd-box{
+    height: auto;
+    width: 100%;
+    background-color: white;
+    margin-bottom: 30px;
+    display: list-item;
+    list-style: none;
+    padding: 0px 10px 0px 10px;
+}
+.add-btn{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.topic-style{
+    padding: 10px 0px 0px 20px;
+    margin-bottom: 10px;
+}
+.btn-style{
+    margin-left: 20px;
+}
+.table-head{
+    text-align: center;
+}
